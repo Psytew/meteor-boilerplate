@@ -1,0 +1,18 @@
+.header{
+	background-color:#5b4861;
+	padding-top: 1.6rem;
+	padding-left: 10rem;
+	padding-right: 10rem;
+	align-self: center;
+}
+
+.header--content{
+	display: flex;
+	justify-content: space-between;
+	max-width: 50rem;
+	margin: 0 auto;
+}
+
+.header--title{
+	color: white;
+}
